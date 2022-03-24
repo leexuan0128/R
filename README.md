@@ -1,1 +1,1 @@
-# R
+# R in practice
